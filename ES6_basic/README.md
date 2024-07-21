@@ -1,1 +1,3 @@
-ES6-BASICS
+## Overview
+
+This directory contains tasks which is for basics of ES6.
