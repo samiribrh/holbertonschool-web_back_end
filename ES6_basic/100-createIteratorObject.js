@@ -15,5 +15,5 @@ export default function createIteratorObject(report) {
 		},
 	};
 
-  return iterable;
+	return iterable;
 }
