@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Same as module for concurrent coroutines, but with asyncio.Task returning function called."""
+"""Same as module for concurrent coroutines,
+ but with asyncio.Task returning function called."""
 from typing import List
 import asyncio
 task_wait_random = __import__('3-tasks').task_wait_random
