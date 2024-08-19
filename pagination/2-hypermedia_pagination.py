@@ -3,7 +3,7 @@
 from typing import Tuple
 import csv
 import math
-from typing import List ,Dict
+from typing import List, Dict
 
 
 class Server:
