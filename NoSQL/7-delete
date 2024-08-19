@@ -1,4 +1,4 @@
-// Scrpit that inserts a Doc in the school Collection
+// Deleting Holberton from Universe
 db.school.deleteMany(
 	{ name:"Holberton school" }
 )
